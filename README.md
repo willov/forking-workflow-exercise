@@ -1,4 +1,4 @@
-# Exercise to practice collaborative GitHub workflow
+# Exercise to practice collaborative forking workflow
 
 This is an exercises that we will run in groups and we number the groups
 1, 2, ..., etc.
