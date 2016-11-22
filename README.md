@@ -46,7 +46,7 @@ together.
 
 ## Third part: Update your fork
 
-We do this part after the contributions from all groups have been integrated.
+We do this part **after the contributions from all groups have been integrated**.
 
 Once this is done, practice to update your forked repo with the upstream
 changes and verify that you got the files created by other groups:
