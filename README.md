@@ -33,7 +33,9 @@ $ python main.py
 group 17 says: please replace this boring sentence with something more fun
 ```
 
-Once you see your sentence correctly printed, commit and push.
+Once you see your sentence correctly printed, commit and push.  Don't worry
+nothing gets out to Twitter but please mind that your changes will be public on
+GitHub (but you can delete them later).
 
 
 ## Second part: File a pull request
