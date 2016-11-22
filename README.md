@@ -4,10 +4,10 @@ We will run this exercise in groups and we number the groups
 1, 2, ..., etc.
 
 
-## Goals of this exercise
+## Objectives
 
-- Learn how to fork, and file a pull request.
-- Learn how to update your fork with upstream changes.
+- Learn how to fork, modify the fork, and file a pull request towards forked repo
+- Learn how to update your fork with upstream changes
 
 
 ## First part: Fork, clone, and modify
