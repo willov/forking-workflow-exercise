@@ -9,9 +9,11 @@ Objectives:
 - Learn how to update your fork with upstream changes
 
 
-#### First part: Fork, clone, and modify
+#### Part A: Fork and clone
 
 First fork this repository on GitHub into your namespace and then clone the fork to your computer.
+
+#### Part B: Modify
 
 Then add a file `groupN.py` where N is your group number, e.g. `group17.py`.
 
@@ -34,12 +36,14 @@ $ python main.py
 group 17 says: please replace this boring sentence with something more fun
 ```
 
+#### Part C: Push
+
 Once you see your sentence correctly printed, commit and push to your fork. Don't worry
 nothing gets out to Twitter but please mind that your changes will be public on
 GitHub (but you can delete them later).
 
 
-#### Second part: File a pull request
+#### Part D: File a pull request
 
 Then file a pull request towards the repository where you forked from.
 
@@ -47,7 +51,7 @@ Wait until we integrate all pull requests into the central repo
 together on the big screen.
 
 
-#### Third part: Update your fork
+#### Part E: Update your fork
 
 We do this part **after the contributions from all groups have been integrated**.
 
