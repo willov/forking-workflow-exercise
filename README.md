@@ -1,4 +1,4 @@
-### Exercise to practice collaborative forking workflow
+## Exercise to practice collaborative forking workflow
 
 We will run this exercise in groups and we number the groups
 1, 2, ..., etc.
@@ -9,11 +9,11 @@ Objectives:
 - Learn how to update your fork with upstream changes
 
 
-#### Part A: Fork and clone
+### Part A: Fork and clone
 
 First fork this repository on GitHub into your namespace and then clone the fork to your computer.
 
-#### Part B: Modify
+### Part B: Modify
 
 Then add a file `groupN.py` where N is your group number, e.g. `group17.py`.
 
@@ -36,14 +36,14 @@ $ python main.py
 group 17 says: please replace this boring sentence with something more fun
 ```
 
-#### Part C: Push
+### Part C: Push your changes to the fork
 
 Once you see your sentence correctly printed, commit and push to your fork. Don't worry
 nothing gets out to Twitter but please mind that your changes will be public on
 GitHub (but you can delete them later).
 
 
-#### Part D: File a pull request
+### Part D: File a pull request
 
 Then file a pull request towards the repository where you forked from.
 
@@ -51,7 +51,7 @@ Wait until we integrate all pull requests into the central repo
 together on the big screen.
 
 
-#### Part E: Update your fork
+### Part E: Update your fork
 
 We do this part **after the contributions from all groups have been integrated**.
 
