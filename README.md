@@ -14,7 +14,7 @@ Objectives:
 First fork this repository on GitHub into your namespace and then clone the fork to your computer.
 
 
-### Part B: Modify
+### Part B: Modify and commit
 
 Then add a file `groupN.py` where N is your group number, e.g. `group17.py`.
 
