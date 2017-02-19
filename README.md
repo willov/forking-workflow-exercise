@@ -30,7 +30,7 @@ def tweet():
 The file `main.py` automatically calls all `tweet()` functions defined in files
 `groupN.py` (1 <= N <= 50). You do not need to edit `main.py`.
 
-You can test it:
+Test it before you commit your change:
 
 ```shell
 $ python main.py
