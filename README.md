@@ -17,6 +17,7 @@ First fork this repository on GitHub into your namespace and then clone the fork
 ### Part B: Modify and commit
 
 Then add a file `groupN.py` where N is your group number, e.g. `group17.py`.
+**Add only one file per group**. (Why?)
 
 This file should contain a function called `tweet()` which returns
 a string of maximum 140 characters, for instance:
