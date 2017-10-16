@@ -8,7 +8,7 @@ import os
 
 for filename in os.listdir("."):
     if filename.startswith("group_") and filename.endswith(".py"):
-        module_name = filename[:-2] # ignore .py at the end
+        module_name = filename[:-3] # ignore .py at the end
         module = __import__(module_name)
         tweet_content = module.tweet().encode('utf-8')
         assert len(tweet_content) <= 140, \
