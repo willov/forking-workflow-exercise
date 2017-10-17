@@ -6,7 +6,6 @@ implemented in group*.py.
 
 import os
 
-i=2
 for filename in os.listdir("."):
     if filename.startswith("group") and filename.endswith(".py"):
         module_name = filename[:-3]
