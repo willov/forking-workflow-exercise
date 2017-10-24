@@ -1,9 +1,8 @@
 """
 This will loop through all the files with group*.py and assert that their
 tweet()-function returns a string that is less than 140 characters long.
-
-
 """
+
 import os
 
 for filename in os.listdir("."):
