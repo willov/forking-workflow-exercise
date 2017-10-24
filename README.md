@@ -1,7 +1,6 @@
 ## Exercise to practice collaborative forking workflow
 
-We will run this exercise in groups and we number the groups
-1, 2, ..., etc.
+We will run this exercise in groups. Groups can choose a number or a name.
 
 Objectives:
 
@@ -16,7 +15,7 @@ First fork this repository on GitHub into your namespace and then clone the fork
 
 ### Part B: Modify and commit
 
-Then add a file `groupN.py` where N is your group number, e.g. `group17.py`.
+Then add a file `group-X.py` where X is your group number or group name (can be badass), e.g. `group-17.py`.
 **Add only one file per group**. (Why?)
 
 This file should contain a function called `tweet()` which returns
@@ -28,7 +27,7 @@ def tweet():
 ```
 
 The file `main.py` automatically calls all `tweet()` functions defined in files
-`groupN.py` (1 <= N <= 50). You do not need to edit `main.py`.
+`group*.py`. You do not need to edit `main.py`.
 
 Test it before you commit your change:
 
