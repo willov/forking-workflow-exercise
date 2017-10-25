@@ -15,7 +15,7 @@ First fork this repository on GitHub into your namespace and then clone the fork
 
 ### Part B: Modify and commit
 
-Then add a file `group-X.py` where X is your group number or group name (can be badass), e.g. `group-17.py`.
+Then add a file `group-X.py` where X is your group number or group name, e.g. `group-17.py`.
 **Add only one file per group**. (Why?)
 
 This file should contain a function called `tweet()` which returns
